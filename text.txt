@@ -1,1 +1,7 @@
-helo from Usama
+git init
+git status
+git add. 
+git commit -m "comment "
+git remote add origin "url"
+git push origin master
+name and token write there
